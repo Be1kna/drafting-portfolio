@@ -1,0 +1,50 @@
+[
+    {
+        "id": "popsicle-trays",
+        "title": "Popsicle Trays",
+        "description": "A project where I designed popsicle trays using Fusion 360 modeling software.",
+        "icon": "🍨",
+        "tags": ["Fusion 360", "Product Design", "Prototype"],
+        "file": "PopsicleTrays.pdf"
+    },
+    {
+        "id": "prefabricated-house",
+        "title": "Prefabricated House",
+        "description": "A project where I designed a prefabricated house using SketchUp modeling software.",
+        "icon": "🏠",
+        "tags": ["SketchUp", "Architecture", "Prefabricated"],
+        "file": "PrefabricatedHouse.pdf"
+    },
+    {
+        "id": "classroom-remodel",
+        "title": "Classroom Remodel",
+        "description": "A project where I redesigned my classroom using SketchUp modeling software.",
+        "icon": "🪑",
+        "tags": ["SketchUp", "Floor Layout", "Remodeling"],
+        "file": "ClassroomRemodel.pdf"
+    },
+    {
+        "id": "blender-house",
+        "title": "Blender House",
+        "description": "A project where I designed a dream house using Blender modeling software.",
+        "icon": "🏠",
+        "tags": ["Blender", "Architecture", "Furniture"],
+        "file": "BlenderHouse.pdf"
+    },
+    {
+        "id": "woodworking-designs",
+        "title": "Woodworking Designs",
+        "description": "A collection of various woodworking projects and their design processes.",
+        "icon": "🪵",
+        "tags": ["Woodworking", "Design", "Projects"],
+        "file": "WoodworkingDesigns.pdf"
+    },
+    {
+        "id": "sketches",
+        "title": "Sketches",
+        "description": "A collection of various sketches including isometric, perspective, and perspective drawings.",
+        "icon": "✏️",
+        "tags": ["Sketching", "Isometric", "Perspective"],
+        "file": "Sketches.pdf"
+    }
+]
