@@ -12,7 +12,7 @@
         "title": "Prefabricated House",
         "description": "A project where I designed a prefabricated house using SketchUp modeling software.",
         "icon": "🏠",
-        "tags": ["SketchUp", "Architecture", "Prefabricated"],
+        "tags": ["SketchUp", "Floor Layout", "Architecture"],
         "file": "PrefabricatedHouse.pdf"
     },
     {
@@ -28,7 +28,7 @@
         "title": "Blender House",
         "description": "A project where I designed a dream house using Blender modeling software.",
         "icon": "🏠",
-        "tags": ["Blender", "Architecture", "Furniture"],
+        "tags": ["Blender", "Furniture Design", "Architecture"],
         "file": "BlenderHouse.pdf"
     },
     {
@@ -36,7 +36,7 @@
         "title": "Woodworking Designs",
         "description": "A collection of various woodworking projects and their design processes.",
         "icon": "🪵",
-        "tags": ["Woodworking", "Design", "Projects"],
+        "tags": ["Sketching", "Project Design", "Woodworking"],
         "file": "WoodworkingDesigns.pdf"
     },
     {
