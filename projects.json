@@ -32,6 +32,14 @@
         "file": "BlenderHouse.pdf"
     },
     {
+        "id": "elements-and-principles",
+        "title": "Elements and Principles of Design",
+        "description": "A project where I explored the elements and principles of art/design in my sketchbook.",
+        "icon": "🎨",
+        "tags": ["Sketching", "Design Elements", "Design Principles"],
+        "file": "ElementsAPrinciples.pdf"
+    },
+    {
         "id": "woodworking-designs",
         "title": "Woodworking Designs",
         "description": "A collection of various woodworking projects and their design processes.",
